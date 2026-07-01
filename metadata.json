@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "An offline-first financial dashboard that allows manual transaction entries and automated parsing of bank statements using standard formatters and intelligent Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
